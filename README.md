@@ -6,9 +6,9 @@ Run `main.py` with the following configuration
 `-p "$project_dir" --base-xml="$project_dir/src/main/res/values/strings.xml"` 
 
 <h3>Supported params</h3>
-`--path, -p` –– path to the project.  
+`--path, -p` –– path to the project. <br> 
 `--base-xml` –– path to the strings.xml in default locale. Walking through project dir to collect all string resources 
-not supported yet (not required by target project).  
+not supported yet (not required by target project). <br> 
 `--log-level` –– one of the following values: "DEBUG", "INFO", "WARNING", "ERROR". 
 
 <h3>How to adjust</h3>
